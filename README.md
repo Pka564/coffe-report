@@ -35,8 +35,6 @@ python main.py --files math.csv physics.csv --report median-coffee
 Student | Median Coffee
 
 Иван Кузнецов | 650
-Алексей Смирнов | 500
-Мария Соколова | 120
 
 ## Тестирование
 
